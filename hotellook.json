@@ -1,6 +1,6 @@
 {
-    "search_id": "",
-    "stop": true,
+    "search_id": "0697da50-3fb6-48bd-8470-f11b09f382e2",
+    "stop": false,
     "locations": {
         "12153": {
             "seasons": {},
@@ -54,106 +54,592 @@
             "type": "City"
         }
     },
-    "districts": {
-        "1667837": {
-            "name": "Красносельский район",
-            "id": 1667837,
-            "path": "186.1416794.12153.1676723.1667837"
-        },
-        "1676723": {
-            "name": "Центральный административный округ",
-            "id": 1676723,
-            "path": "186.1416794.12153.1676723"
-        }
-    },
+    "districts": {},
     "filters": {
-        "counters": {
-            "prices": null,
-            "property_types": {},
-            "stars": {},
-            "hotels_amenities": {},
-            "districts": {},
-            "ratings": null,
-            "distance_to_center": null,
-            "proposals_options": {},
-            "distance_to": {},
-            "agencies": {}
-        }
+        "counters": null
     },
-    "hotels_amenities": {
-        "0": {
-            "slug": "restaurant",
-            "name": "Ресторан/кафе",
-            "category": "hotel"
-        },
-        "1": {
-            "slug": "parking",
-            "name": "Парковка",
-            "category": "hotel"
-        },
-        "3": {
-            "slug": "pets",
-            "name": "Можно с животными",
-            "category": "hotel"
-        },
-        "4": {
-            "slug": "tv",
-            "name": "Телевизор",
-            "category": "room"
-        },
-        "5": {
-            "slug": "laundry",
-            "name": "Прачечная",
-            "category": "hotel"
-        },
-        "6": {
-            "slug": "air conditioning",
-            "name": "Кондиционер",
-            "category": "room"
-        },
-        "8": {
-            "slug": "pool",
-            "name": "Бассейн",
-            "category": "hotel"
-        },
-        "9": {
-            "slug": "fitness",
-            "name": "Спортзал",
-            "category": "hotel"
-        },
-        "12": {
-            "slug": "hairdryer",
-            "name": "Фен",
-            "category": "room"
-        },
-        "14": {
-            "slug": "safe",
-            "name": "Сейф",
-            "category": "room"
-        },
-        "17": {
-            "slug": "disabled facilities",
-            "name": "Помощь малоподвижным людям",
-            "category": "hotel"
-        },
-        "18": {
-            "slug": "24h. reception",
-            "name": "Ресепшн 24 часа",
-            "category": "hotel"
-        },
-        "20": {
-            "slug": "spa",
-            "name": "Спа",
-            "category": "hotel"
-        }
-    },
-    "total_hotels": 0,
-    "filtered_hotels": 0,
+    "hotels_amenities": {},
+    "total_hotels": 9163,
+    "filtered_hotels": 9163,
     "hotels": [
         {
-            "room_count": 236,
-            "check_in": "14:00",
-            "check_out": "12:00",
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 9206,
+            "address": "Измайловское шоссе 71 строение 3В",
+            "name": "Отель Вега Измайлово",
+            "location_id": 12153,
+            "photos_ids": [
+                "7489913361",
+                "8352837505",
+                "8352837517",
+                "7489912810",
+                "8352837500",
+                "8352837498",
+                "7489913938",
+                "8352837516",
+                "7489912430",
+                "8352837508",
+                "7489912401",
+                "7489912399",
+                "7489914609",
+                "7489912834",
+                "7489912406",
+                "8352837496",
+                "7489914594",
+                "8352837491",
+                "7489912773",
+                "8352837597",
+                "7489914618",
+                "7489912829",
+                "7489912885",
+                "7489914214"
+            ],
+            "minprice": 46,
+            "property_type": "HOTEL",
+            "rating": 9,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 2266,
+            "locations_distances": {},
+            "reviews_count": 15712,
+            "pois_distances": {
+                "69873": 35331,
+                "69874": 42911,
+                "69885": 28394,
+                "71907": 2167,
+                "71949": 2095,
+                "71955": 1368,
+                "71996": 1925,
+                "72010": 291,
+                "313586": 1604,
+                "325548": 34937
+            },
+            "description": "",
+            "location": {
+                "lat": 55.790752,
+                "lon": 37.747135
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1416636
+            ],
+            "chain": "Best Inns",
+            "scoring": {},
+            "id": 333570,
+            "popularity": 16804,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                9,
+                4,
+                6,
+                12,
+                1,
+                14,
+                17,
+                18,
+                5,
+                3,
+                10,
+                11,
+                0
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "popular",
+                        "popularity": 4
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "comfort",
+                        "popularity": 7.661253
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "business",
+                        "popularity": 2.332298
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "metro",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "transport",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "city",
+                        "popularity": 7.559006
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "view",
+                        "popularity": 8.884956
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "building",
+                        "popularity": 4.743697
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.2766292
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 72010,
+                "train_station": 313586
+            },
+            "address_parent_ids": [
+                1491124,
+                1416636,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 61,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 15712,
+            "best_photo_weight": 2.875021,
+            "trending_speed": 0,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 3164,
+            "address": "Ул. Щепкина 32, стр.1",
+            "name": "Sunflower Авеню Отель Москва",
+            "location_id": 12153,
+            "photos_ids": [
+                "8693498484",
+                "8693498482",
+                "8693498477",
+                "8693498483",
+                "8693498462",
+                "7630676303",
+                "8693498486",
+                "8693498469",
+                "7630676302",
+                "8693498470",
+                "8693498466",
+                "8693498465",
+                "8693498458",
+                "8693498472",
+                "8693498473",
+                "8693498471",
+                "8693498457",
+                "8693498488",
+                "8693498464",
+                "8693498467",
+                "8693498481",
+                "8693498480",
+                "8693498460",
+                "7630676299"
+            ],
+            "minprice": 35,
+            "property_type": "HOTEL",
+            "rating": 8.9,
+            "stars": 3,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 1397,
+            "locations_distances": {},
+            "reviews_count": 3195,
+            "pois_distances": {
+                "69873": 28861,
+                "69874": 43984,
+                "69885": 24658,
+                "71755": 1045,
+                "71788": 967,
+                "71913": 331,
+                "71928": 825,
+                "71954": 1387,
+                "313548": 1665,
+                "313584": 1814,
+                "313585": 1449,
+                "313599": 1684,
+                "313613": 3037,
+                "325548": 39743
+            },
+            "description": "",
+            "location": {
+                "lat": 55.7796,
+                "lon": 37.62982
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1667834,
+                1676723
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 1198039,
+            "popularity": 16803,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                12,
+                14,
+                18,
+                0,
+                3,
+                4,
+                6,
+                10
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "metro",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "transport",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "city",
+                        "popularity": 4.1770186
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.2280583
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 71913,
+                "train_station": 313585
+            },
+            "address_parent_ids": [
+                1667834,
+                1676723,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 57,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 3195,
+            "best_photo_weight": 2.7459562,
+            "trending_speed": 0.89,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 5594,
+            "address": "Русаковская ул.24",
+            "name": "Холидей Инн Москва Сокольники",
+            "location_id": 12153,
+            "photos_ids": [
+                "7972531316",
+                "7949733813",
+                "7862423210",
+                "7914119509",
+                "7862423133",
+                "8006754987",
+                "7925001824",
+                "7885035225",
+                "7885035234",
+                "7885035233",
+                "8006755070",
+                "7862423200",
+                "7885035224",
+                "7885035138",
+                "7885035157",
+                "7925001819",
+                "7862423120",
+                "7925001718",
+                "7862423129",
+                "7862423094",
+                "7765479791",
+                "7914119426",
+                "7949733725",
+                "7794748972"
+            ],
+            "minprice": 53,
+            "property_type": "HOTEL",
+            "rating": 9,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 1854,
+            "locations_distances": {},
+            "reviews_count": 9624,
+            "pois_distances": {
+                "69873": 31827,
+                "69874": 43714,
+                "69885": 25792,
+                "71854": 2101,
+                "71908": 1246,
+                "71950": 1680,
+                "72006": 172,
+                "72035": 1701,
+                "313548": 1999,
+                "313584": 1860,
+                "313585": 2207,
+                "313599": 2165,
+                "313613": 3492,
+                "325548": 37801
+            },
+            "description": "",
+            "location": {
+                "lat": 55.78769,
+                "lon": 37.68033
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1416636
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 333559,
+            "popularity": 16802,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                17,
+                5,
+                6,
+                10,
+                12,
+                4,
+                0,
+                1,
+                18,
+                20,
+                3,
+                8,
+                9,
+                14
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "popular",
+                        "popularity": 9
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "luxury",
+                        "popularity": 3.152174
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "comfort",
+                        "popularity": 6.0533643
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "business",
+                        "popularity": 2.2298136
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "view",
+                        "popularity": 0
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.2625914
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 72006,
+                "train_station": 313584
+            },
+            "address_parent_ids": [
+                1416636,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 71,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 9624,
+            "best_photo_weight": 2.6529758,
+            "trending_speed": 0.18,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 4626,
+            "address": "Улица Верхняя Красносельская, 11а-4",
+            "name": "Хилтон Гарден Инн Москва Красносельская",
+            "location_id": 12153,
+            "photos_ids": [
+                "8725235261",
+                "8725235254",
+                "8725235256",
+                "8725235249",
+                "8725235265",
+                "8725235231",
+                "8725235235",
+                "8725235255",
+                "8725235253",
+                "7921502722",
+                "8801769572",
+                "8801769542",
+                "8801769541",
+                "8801769563",
+                "7921502724",
+                "8801769564",
+                "8725235244",
+                "7921502726",
+                "7921502723",
+                "8725235243",
+                "8725235218",
+                "8725235226",
+                "8375761217",
+                "8340216616"
+            ],
+            "minprice": 55,
+            "property_type": "HOTEL",
+            "rating": 9.1,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 486,
+            "locations_distances": {},
+            "reviews_count": 4499,
+            "pois_distances": {
+                "69873": 30787,
+                "69874": 43771,
+                "69885": 25364,
+                "71854": 1210,
+                "71908": 587,
+                "71913": 1866,
+                "72006": 1162,
+                "72035": 1711,
+                "313548": 1056,
+                "313584": 972,
+                "313585": 1205,
+                "313599": 1259,
+                "313613": 2945,
+                "325548": 38447
+            },
+            "description": "",
+            "location": {
+                "lat": 55.78481,
+                "lon": 37.66283
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1667837,
+                1676723
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 1704466136,
+            "popularity": 16801,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                0,
+                3,
+                4,
+                5,
+                6,
+                10,
+                18,
+                1,
+                9,
+                11,
+                14,
+                17
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "modern",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "city",
+                        "popularity": 5.967742
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.2162018
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 71908,
+                "train_station": 313584
+            },
+            "address_parent_ids": [
+                1667837,
+                1676723,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 65,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 4499,
+            "best_photo_weight": 2.7164078,
+            "trending_speed": 0.69,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
             "distance_to_center": 4999,
             "address": "Русаковская ул.13/5",
             "name": "Отель Бородино",
@@ -188,15 +674,11 @@
             "property_type": "HOTEL",
             "rating": 8.9,
             "stars": 4,
-            "year_opened": 2007,
+            "year_opened": 0,
             "year_renovated": 0,
-            "locations_ids": [
-                12153
-            ],
+            "locations_ids": [],
             "popularity2": 917,
-            "locations_distances": {
-                "12153": 4999
-            },
+            "locations_distances": {},
             "reviews_count": 4871,
             "pois_distances": {
                 "69873": 31225,
@@ -214,85 +696,12 @@
                 "313613": 3011,
                 "325548": 37964
             },
-            "description": "Бронирование отеля «Бородино» в Москве позволит вам полноценно развлечься и отдохнуть, не выходя за пределы гостиницы. Здесь можно посетить салон красоты, фитнес-центр, бассейн, пройтись по сувенирным магазинам, подкрепиться в ресторане – и все это на фоне приветливости обслуживающего персонала и роскошных интерьеров. В стоимость отеля «Бородино» входит использование автостоянки. Забронировать отель «Бородино» можно и в случае, если вы посетили столицу с деловыми целями – тихая обстановка не помешает вам работать. Номера оснащены душем, мини-баром, сейфом, TV, кондиционером, телефоном, беспроводным интернетом – таким образом, цены на отель «Бородино» полностью оправдывают себя.",
+            "description": "",
             "location": {
                 "lat": 55.78458,
                 "lon": 37.6724
             },
-            "photos_by_room_type": {
-                "1": {
-                    "photos_ids": [
-                        "9078476781",
-                        "9078476777",
-                        "8678016631",
-                        "9078476782",
-                        "8678016579",
-                        "8678016580",
-                        "9078476778",
-                        "9078476812",
-                        "9078476813",
-                        "9078476814",
-                        "9078476816",
-                        "9078476822",
-                        "9078476823",
-                        "9078476824",
-                        "9078476825",
-                        "9078476815"
-                    ],
-                    "count": 0
-                },
-                "7": {
-                    "photos_ids": [
-                        "9078476827",
-                        "9078476829",
-                        "9078476796",
-                        "9078476828",
-                        "9078476826"
-                    ],
-                    "count": 0
-                },
-                "9": {
-                    "photos_ids": [
-                        "9078476817",
-                        "9078476818",
-                        "9078476827",
-                        "9078476829",
-                        "9078476831",
-                        "9078476796",
-                        "9078476797",
-                        "9078476798",
-                        "9078476799",
-                        "9078476800",
-                        "9078476819",
-                        "9078476820",
-                        "9078476828",
-                        "9078476830",
-                        "9078476826"
-                    ],
-                    "count": 0
-                },
-                "15": {
-                    "photos_ids": [
-                        "8678016631",
-                        "9078476816",
-                        "9078476822",
-                        "9078476823",
-                        "9078476824",
-                        "9078476825"
-                    ],
-                    "count": 0
-                },
-                "40": {
-                    "photos_ids": [
-                        "9078476831",
-                        "9078476798",
-                        "9078476799",
-                        "9078476800",
-                        "9078476830"
-                    ],
-                    "count": 0
-                }
-            },
+            "photos_by_room_type": {},
             "districts_ids": [
                 1667837,
                 1676723
@@ -300,144 +709,9 @@
             "chain": "Synxis Corporation",
             "scoring": {},
             "id": 333572,
-            "popularity": 650785,
-            "amenitiesv2": {
-                "categories": {
-                    "hotel": {
-                        "values": [
-                            {
-                                "slug": "spa",
-                                "price": "",
-                                "name": "Спа"
-                            },
-                            {
-                                "slug": "gym",
-                                "price": "",
-                                "name": "Спортзал"
-                            },
-                            {
-                                "slug": "swimming_pool",
-                                "price": "",
-                                "name": "Бассейн"
-                            },
-                            {
-                                "slug": "animation",
-                                "price": "",
-                                "name": "Анимация"
-                            },
-                            {
-                                "slug": "bar",
-                                "price": "",
-                                "name": "Бар"
-                            },
-                            {
-                                "slug": "restaurant_cafe",
-                                "price": "",
-                                "name": "Ресторан/кафе"
-                            },
-                            {
-                                "slug": "low_mobility_guests_welcome",
-                                "price": "",
-                                "name": "Помощь малоподвижным людям"
-                            },
-                            {
-                                "slug": "24_hours_front_desk_service",
-                                "price": "",
-                                "name": "Ресепшн 24 часа"
-                            },
-                            {
-                                "slug": "pets_allowed",
-                                "price": "",
-                                "name": "Можно с животными"
-                            },
-                            {
-                                "slug": "concierge_service",
-                                "price": "",
-                                "name": "Консьерж"
-                            },
-                            {
-                                "slug": "laundry_service",
-                                "price": "",
-                                "name": "Прачечная"
-                            },
-                            {
-                                "slug": "business_centre",
-                                "price": "",
-                                "name": "Бизнес-центр"
-                            },
-                            {
-                                "slug": "parking",
-                                "price": "free",
-                                "name": "Парковка"
-                            }
-                        ]
-                    },
-                    "language": {
-                        "values": [
-                            {
-                                "slug": "english",
-                                "price": "",
-                                "name": "Английский"
-                            },
-                            {
-                                "slug": "russian",
-                                "price": "",
-                                "name": "Русский"
-                            }
-                        ]
-                    },
-                    "room": {
-                        "values": [
-                            {
-                                "slug": "safe_box",
-                                "price": "",
-                                "name": "Сейф"
-                            },
-                            {
-                                "slug": "hairdryer",
-                                "price": "",
-                                "name": "Фен"
-                            },
-                            {
-                                "slug": "shower",
-                                "price": "",
-                                "name": "Душ"
-                            },
-                            {
-                                "slug": "private_bathroom",
-                                "price": "",
-                                "name": "Ванная комната"
-                            },
-                            {
-                                "slug": "daily_housekeeping",
-                                "price": "",
-                                "name": "Ежедневная уборка"
-                            },
-                            {
-                                "slug": "air_conditioning",
-                                "price": "",
-                                "name": "Кондиционер"
-                            },
-                            {
-                                "slug": "tv",
-                                "price": "",
-                                "name": "Телевизор"
-                            },
-                            {
-                                "slug": "bathrobes",
-                                "price": "",
-                                "name": "Халаты"
-                            },
-                            {
-                                "slug": "mini_bar",
-                                "price": "",
-                                "name": "Мини-бар"
-                            }
-                        ]
-                    }
-                }
-            },
-            "latin_name": "Borodino Hotel",
+            "popularity": 16800,
+            "amenitiesv2": null,
+            "latin_name": "",
             "is_rentals": false,
             "has_rentals": true,
             "photos_count": 24,
@@ -445,19 +719,19 @@
             "full_name": "",
             "property_type_id": 1,
             "amenities": [
-                5,
-                8,
-                9,
                 3,
-                4,
+                8,
                 12,
                 18,
-                20,
-                1,
                 6,
                 14,
+                0,
+                4,
+                9,
                 17,
-                0
+                20,
+                1,
+                5
             ],
             "badges": {
                 "badges": [
@@ -483,7 +757,9 @@
                     }
                 ]
             },
-            "weights": {},
+            "weights": {
+                "default": 2.212328
+            },
             "nearest_poi_by_category": {
                 "airport": 69885,
                 "metro_station": 71908,
@@ -501,2756 +777,673 @@
             "readable_reviews_count": 0,
             "rating_reviews_count": 4871,
             "best_photo_weight": 2.7383218,
+            "trending_speed": 0.39,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 6463,
+            "address": "Ленинградский Проспект 37, корпус 8",
+            "name": "ibis Москва Динамо",
+            "location_id": 12153,
+            "photos_ids": [
+                "7630677409",
+                "8793151888",
+                "8863392105",
+                "8863392092",
+                "8819943508",
+                "8863392094",
+                "6341787119",
+                "8705558558",
+                "8814737837",
+                "7630677412",
+                "8863392093",
+                "8819943509",
+                "8863392096",
+                "7630677410",
+                "8705558555",
+                "8863392097",
+                "8819943505",
+                "8705558544",
+                "8863392103",
+                "8863392101",
+                "7630677411",
+                "8705558547",
+                "8705558543",
+                "8705558559"
+            ],
+            "minprice": 39,
+            "property_type": "HOTEL",
+            "rating": 8.7,
+            "stars": 3,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 1215,
+            "locations_distances": {},
+            "reviews_count": 6839,
+            "pois_distances": {
+                "69873": 26286,
+                "69874": 47594,
+                "69885": 20896,
+                "71800": 2278,
+                "71846": 969,
+                "71856": 2103,
+                "71872": 2326,
+                "71925": 1096,
+                "313547": 2793,
+                "313605": 2967,
+                "323310": 4489,
+                "325548": 44997
+            },
+            "description": "",
+            "location": {
+                "lat": 55.7924,
+                "lon": 37.54347
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1467379
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 44463003,
+            "popularity": 16799,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                0,
+                1,
+                4,
+                6,
+                12,
+                14,
+                3,
+                5,
+                10,
+                17,
+                18
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "modern",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "business",
+                        "popularity": 2.6397514
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "city",
+                        "popularity": 6.5341616
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.172786
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "beach": 323310,
+                "metro_station": 71846,
+                "train_station": 313547
+            },
+            "address_parent_ids": [
+                1467379,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 57,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 6839,
+            "best_photo_weight": 2.7604616,
+            "trending_speed": 0.25,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 9633,
+            "address": "Ulitsa Kosmonavta Volkova 6А",
+            "name": "Арт Москва Войковская",
+            "location_id": 12153,
+            "photos_ids": [
+                "9525299954",
+                "9525299955",
+                "9525299950",
+                "9525299949",
+                "8259929033",
+                "8259929028",
+                "8259929025",
+                "8259929024",
+                "9525299959",
+                "9525299958",
+                "9525299947",
+                "9525299945",
+                "8740864122",
+                "8740864159",
+                "8740864124",
+                "9525299952",
+                "8740864160",
+                "8259929023",
+                "8259929026",
+                "8740864161",
+                "8873350468",
+                "8873350466",
+                "8740864162",
+                "9080429661"
+            ],
+            "minprice": 42,
+            "property_type": "HOTEL",
+            "rating": 8.8,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 727,
+            "locations_distances": {},
+            "reviews_count": 2343,
+            "pois_distances": {
+                "69873": 27341,
+                "69874": 50748,
+                "69885": 17831,
+                "71800": 1147,
+                "71924": 2702,
+                "71925": 2092,
+                "71960": 3214,
+                "72012": 1017,
+                "305611": 3083,
+                "323310": 2494,
+                "325548": 48012,
+                "342824": 3164
+            },
+            "description": "",
+            "location": {
+                "lat": 55.8153,
+                "lon": 37.51274
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1467379
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 1899369125,
+            "popularity": 16798,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                0,
+                1,
+                6,
+                10,
+                14,
+                3,
+                4,
+                5,
+                12,
+                17,
+                18
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "modern",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "designer",
+                        "popularity": 5.4
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.1888375
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "beach": 323310,
+                "metro_station": 72012
+            },
+            "address_parent_ids": [
+                1467379,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 60,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 2343,
+            "best_photo_weight": 2.7759693,
+            "trending_speed": 2.78,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 9291,
+            "address": "Измайловское шоссе 71 корпус А",
+            "name": "Гостиница Альфа Измайлово",
+            "location_id": 12153,
+            "photos_ids": [
+                "7487223299",
+                "7761608657",
+                "7761609184",
+                "7761609027",
+                "7742024398",
+                "7761609012",
+                "7761608683",
+                "7761609404",
+                "1553953124",
+                "7761609405",
+                "1553954032",
+                "7761609290",
+                "7761608682",
+                "7761609158",
+                "1553954852",
+                "7761609211",
+                "1553953558",
+                "1553953313",
+                "7487222750",
+                "7487218881",
+                "7487223392",
+                "779478767",
+                "7742024373",
+                "615381664"
+            ],
+            "minprice": 38,
+            "property_type": "HOTEL",
+            "rating": 8.6,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 2567,
+            "locations_distances": {},
+            "reviews_count": 18605,
+            "pois_distances": {
+                "69873": 35390,
+                "69874": 42772,
+                "69885": 28578,
+                "71907": 2003,
+                "71949": 2271,
+                "71955": 1497,
+                "71996": 2021,
+                "72010": 152,
+                "313586": 1726,
+                "325548": 34755
+            },
+            "description": "",
+            "location": {
+                "lat": 55.789787,
+                "lon": 37.74955
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1416636
+            ],
+            "chain": "Synxis Corporation",
+            "scoring": {},
+            "id": 276236,
+            "popularity": 16797,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                1,
+                17,
+                18,
+                12,
+                9,
+                10,
+                11,
+                14,
+                0,
+                4,
+                6,
+                3,
+                5
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "popular",
+                        "popularity": 2
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "business",
+                        "popularity": 4.4844723
+                    },
+                    {
+                        "show_on_search_card": true,
+                        "code": "restaurants",
+                        "popularity": 2.523077
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "metro",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "transport",
+                        "popularity": 0
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "city",
+                        "popularity": 7.968944
+                    },
+                    {
+                        "show_on_search_card": false,
+                        "code": "view",
+                        "popularity": 6.256637
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.195934
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 72010,
+                "train_station": 313586
+            },
+            "address_parent_ids": [
+                1491124,
+                1416636,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 57,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 18605,
+            "best_photo_weight": 2.8815997,
+            "trending_speed": 0,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 7814,
+            "address": "Улица Мневники, 3, стр. 2",
+            "name": "Москоу Холидэй Отель",
+            "location_id": 12153,
+            "photos_ids": [
+                "7499262649",
+                "7499265095",
+                "7925002564",
+                "7499260635",
+                "7499271506",
+                "7499270578",
+                "7499265312",
+                "7760411489",
+                "7862424473",
+                "7499269215",
+                "7499274490",
+                "7760411499",
+                "7499273406",
+                "7499273652",
+                "7499268484",
+                "7499271940",
+                "7499267248",
+                "7499266668",
+                "7499272981",
+                "7499274188",
+                "7819812096",
+                "7819812097",
+                "7885035773",
+                "7819812090"
+            ],
+            "minprice": 33,
+            "property_type": "HOTEL",
+            "rating": 8.3,
+            "stars": 4,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 412,
+            "locations_distances": {},
+            "reviews_count": 3282,
+            "pois_distances": {
+                "69873": 22981,
+                "69874": 47199,
+                "69885": 22025,
+                "71760": 3242,
+                "71856": 2899,
+                "71872": 1236,
+                "71924": 2236,
+                "71942": 3329,
+                "325548": 46294
+            },
+            "description": "",
+            "location": {
+                "lat": 55.77373,
+                "lon": 37.49912
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1667879
+            ],
+            "chain": "Synxis Corporation",
+            "scoring": {},
+            "id": 276243,
+            "popularity": 16796,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                6,
+                9,
+                12,
+                0,
+                4,
+                8,
+                18,
+                20,
+                1,
+                5,
+                10,
+                14,
+                17
+            ],
+            "badges": {
+                "badges": [
+                    {
+                        "show_on_search_card": true,
+                        "code": "city",
+                        "popularity": 14.015528
+                    }
+                ]
+            },
+            "weights": {
+                "default": 2.1297414
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 71872
+            },
+            "address_parent_ids": [
+                1667879,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 53,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 3282,
+            "best_photo_weight": 2.8965201,
+            "trending_speed": 1.59,
+            "debug_info": ""
+        },
+        {
+            "room_count": 0,
+            "check_in": "",
+            "check_out": "",
+            "distance_to_center": 1710,
+            "address": "улица Покровка, д. 6, Москва",
+            "name": "Покровка 6 Отель",
+            "location_id": 12153,
+            "photos_ids": [
+                "8734876847",
+                "8734876854",
+                "8734876866",
+                "8734876856",
+                "8734876872",
+                "8184857675",
+                "8184857686",
+                "8184857671",
+                "8734876864",
+                "9418075514",
+                "8734876874",
+                "8184857691",
+                "8734876852",
+                "8734876890",
+                "8734876904",
+                "8170272403",
+                "8184857669",
+                "8184857688",
+                "9418075517",
+                "8154920391",
+                "8734876860",
+                "8734876862",
+                "8734876888",
+                "8734876901"
+            ],
+            "minprice": 38,
+            "property_type": "HOTEL",
+            "rating": 9.6,
+            "stars": 3,
+            "year_opened": 0,
+            "year_renovated": 0,
+            "locations_ids": [],
+            "popularity2": 326,
+            "locations_distances": {},
+            "reviews_count": 0,
+            "pois_distances": {
+                "69873": 27938,
+                "69874": 41548,
+                "69885": 27033,
+                "71763": 920,
+                "71769": 892,
+                "71774": 714,
+                "71875": 706,
+                "71884": 806,
+                "313548": 2121,
+                "313584": 2216,
+                "313585": 2002,
+                "313599": 1919,
+                "313613": 1147,
+                "325548": 37790
+            },
+            "description": "",
+            "location": {
+                "lat": 55.75873,
+                "lon": 37.64204
+            },
+            "photos_by_room_type": {},
+            "districts_ids": [
+                1667836,
+                1676723
+            ],
+            "chain": "",
+            "scoring": {},
+            "id": 1898005746,
+            "popularity": 16795,
+            "amenitiesv2": null,
+            "latin_name": "",
+            "is_rentals": false,
+            "has_rentals": true,
+            "photos_count": 24,
+            "latin_full_name": "",
+            "full_name": "",
+            "property_type_id": 1,
+            "amenities": [
+                12,
+                14,
+                18,
+                1,
+                4,
+                6,
+                10
+            ],
+            "badges": null,
+            "weights": {
+                "default": 2.1378424
+            },
+            "nearest_poi_by_category": {
+                "airport": 69885,
+                "metro_station": 71875,
+                "train_station": 313613
+            },
+            "address_parent_ids": [
+                1667836,
+                1676723,
+                12153,
+                1416794,
+                186
+            ],
+            "price_group": 2,
+            "median_minprice": 56,
+            "readable_reviews_count": 0,
+            "rating_reviews_count": 2272,
+            "best_photo_weight": 2.762923,
             "trending_speed": 0,
             "debug_info": ""
         }
     ],
     "proposals": {},
-    "property_types": {
-        "1": "Отель"
-    },
+    "property_types": {},
     "gates": {},
     "proposals_options": {},
     "hotels_map": {},
-    "trustyou": {
-        "333572": {
-            "good_to_know": [
-                {
-                    "count": 0.0675,
-                    "ratio": "Good",
-                    "score": 94,
-                    "review_count": 329,
-                    "category_name": "Размер номера",
-                    "text": "Просторные номера",
-                    "relevance": 1.8083595,
-                    "sentiment": "pos",
-                    "short_text": "Просторные номера",
-                    "category_id": "4b72",
-                    "highlight_list": [
-                        {
-                            "text": "Большие и уютные номера",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "11",
-                                "4b72",
-                                "111"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Просторная ванная",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "11",
-                                "4b72",
-                                "111",
-                                "11a",
-                                "5b6c"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Просторная ванная комната",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "11",
-                                "5b6c",
-                                "11a",
-                                "111",
-                                "4b72"
-                            ],
-                            "sentiment": ""
-                        }
-                    ]
-                },
-                {
-                    "count": 0.0308,
-                    "ratio": "Good",
-                    "score": 93,
-                    "review_count": 150,
-                    "category_name": "Профессионализм",
-                    "text": "Профессиональное обслуживание",
-                    "relevance": 1.5043417,
-                    "sentiment": "pos",
-                    "short_text": "Профессиональное обслуживание",
-                    "category_id": "f8d2",
-                    "highlight_list": [
-                        {
-                            "text": "Вежливый персонал",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "f8d2",
-                                "15"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Обслуживающий персонал вежливый",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "f8d2",
-                                "15"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Заселение быстрое",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "f8d2",
-                                "15b",
-                                "15"
-                            ],
-                            "sentiment": ""
-                        }
-                    ]
-                },
-                {
-                    "count": 0.0433,
-                    "ratio": "Good",
-                    "score": 84,
-                    "review_count": 211,
-                    "category_name": "Чистота в номере",
-                    "text": "Чистые номера",
-                    "relevance": 1,
-                    "sentiment": "pos",
-                    "short_text": "Чистые номера",
-                    "category_id": "f63a",
-                    "highlight_list": [
-                        {
-                            "text": "Аккуратная постель",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "11",
-                                "f63a",
-                                "111",
-                                "333",
-                                "11b"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Чистый и уютный номер",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "f63a",
-                                "11",
-                                "333"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Чистые и уютные номера",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "11",
-                                "f63a",
-                                "333"
-                            ],
-                            "sentiment": ""
-                        }
-                    ]
-                },
-                {
-                    "count": 0.0197,
-                    "ratio": "Good",
-                    "score": 88,
-                    "review_count": 96,
-                    "category_name": "Удаленность от общественного транспорта",
-                    "text": "Удобно добираться на общественном транспорте",
-                    "relevance": 1,
-                    "sentiment": "pos",
-                    "short_text": "Удобно добираться на общественном транспорте",
-                    "category_id": "14i",
-                    "highlight_list": [
-                        {
-                            "text": "Недалеко от станции метро",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "14",
-                                "14i"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Близко к метро",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "14",
-                                "14i"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Рядом остановки автобусов",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "14",
-                                "14i"
-                            ],
-                            "sentiment": ""
-                        }
-                    ]
-                }
-            ],
-            "sentiment_score_list": [
-                {
-                    "count": 0.1345,
-                    "ratio": "Good",
-                    "score": 91,
-                    "review_count": 655,
-                    "category_name": "Сервис",
-                    "text": "Обслуживание по высшему разряду.",
-                    "relevance": 1,
-                    "sentiment": "pos",
-                    "short_text": "Фантастическое обслуживание",
-                    "category_id": "15",
-                    "highlight_list": [
-                        {
-                            "text": "Услуги на высшем уровне",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "15"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Персонал внимательный",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "ddbc",
-                                "15"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Приветливый персонал на ресепшн",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "ddbc",
-                                "15b",
-                                "15"
-                            ],
-                            "sentiment": ""
-                        }
-                    ],
-                    "sub_category_list": [
-                        {
-                            "count": 0.063,
-                            "ratio": "",
-                            "score": 94,
-                            "review_count": 307,
-                            "category_name": "Дружелюбие",
-                            "text": "94% отметили, что персонал очень приветливый.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Приветливый персонал",
-                            "category_id": "ddbc",
-                            "highlight_list": [
-                                {
-                                    "text": "Персонал внимательный",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "ddbc",
-                                        "15"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Внимательный персонала",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "ddbc",
-                                        "15"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Приветливый персонал отеля",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "ddbc",
-                                        "15"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0308,
-                            "ratio": "",
-                            "score": 93,
-                            "review_count": 150,
-                            "category_name": "Профессионализм",
-                            "text": "93% отметили, что обслуживание высокопрофессиональное.",
-                            "relevance": 1.5043417,
-                            "sentiment": "pos",
-                            "short_text": "Профессиональное обслуживание",
-                            "category_id": "f8d2",
-                            "highlight_list": [
-                                {
-                                    "text": "Вежливый персонал",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "f8d2",
-                                        "15"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Обслуживающий персонал вежливый",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "f8d2",
-                                        "15"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Заселение быстрое",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "f8d2",
-                                        "15b",
-                                        "15"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0152,
-                            "ratio": "",
-                            "score": 81,
-                            "review_count": 74,
-                            "category_name": "Ресепшн",
-                            "text": "81% отметили, что персонал регистрации прекрасный.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Прекрасный персонал регистрации",
-                            "category_id": "15b",
-                            "highlight_list": [
-                                {
-                                    "text": "Отличная регистрация",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "15b",
-                                        "15"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Заселение быстрое",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "f8d2",
-                                        "15b",
-                                        "15"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Рецепции улыбаются",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "ddbc",
-                                        "15b",
-                                        "15"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.009,
-                            "ratio": "",
-                            "score": 91,
-                            "review_count": 44,
-                            "category_name": "Содержание отеля",
-                            "text": "Уборка номеров прекрасная, по мнению 91%.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Великолепное обслуживание в номерах",
-                            "category_id": "15e",
-                            "highlight_list": [
-                                {
-                                    "text": "Убирались отлично",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "15",
-                                        "15e"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Убираются каждый день",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "15e",
-                                        "15"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Убирали каждый день",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "15e",
-                                        "15"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0043,
-                            "ratio": "",
-                            "score": 85,
-                            "review_count": 21,
-                            "category_name": "Команда аниматоров",
-                            "text": "85% отметили, что команда аниматоров была великолепна.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Приятная команда аниматоров",
-                            "category_id": "15o",
-                            "highlight_list": [
-                                {
-                                    "text": "Живая музыка",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "ddbc",
-                                        "15",
-                                        "15o"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Живую музыку",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "ddbc",
-                                        "15",
-                                        "15o"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Живой музыкой",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "ddbc",
-                                        "15",
-                                        "15o"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0014,
-                            "ratio": "",
-                            "score": 73,
-                            "review_count": 7,
-                            "category_name": "Обслуживание номеров",
-                            "text": "73% остались довольны обслуживанием номеров.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Великолепное обслуживание номеров",
-                            "category_id": "15m",
-                            "highlight_list": [
-                                {
-                                    "text": "Отличное обслуживание в номерах",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "15",
-                                        "15m"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.001,
-                            "ratio": "",
-                            "score": 100,
-                            "review_count": 5,
-                            "category_name": "Менеджмент",
-                            "text": "Менеджмент превосходный, отметили 100%.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Хороший менеджмент",
-                            "category_id": "15g",
-                            "highlight_list": [
-                                {
-                                    "text": "Отличная организация",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "15",
-                                        "15g"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Хорошая организация",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "15",
-                                        "15g"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        }
-                    ],
-                    "summary_sentence_list": [
-                        {
-                            "text": "Отличная уборка, внимательные горничные.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "15e",
-                                "ddbc",
-                                "15"
-                            ],
-                            "sentiment": "pos"
-                        },
-                        {
-                            "text": "Профессиональное обслуживание, грамотный менеджеры и сотрудники стойки регистрации.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "f8d2",
-                                "15g",
-                                "15b"
-                            ],
-                            "sentiment": "pos"
-                        },
-                        {
-                            "text": "Приятная команда аниматоров.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "15o"
-                            ],
-                            "sentiment": "pos"
-                        },
-                        {
-                            "text": "Великолепное обслуживание номеров.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "15m"
-                            ],
-                            "sentiment": "pos"
-                        }
-                    ]
-                },
-                {
-                    "count": 0.0975,
-                    "ratio": "Good",
-                    "score": 89,
-                    "review_count": 475,
-                    "category_name": "Завтрак",
-                    "text": "Завтрак хороший.",
-                    "relevance": 1,
-                    "sentiment": "pos",
-                    "short_text": "Вкусный завтрак",
-                    "category_id": "131",
-                    "highlight_list": [
-                        {
-                            "text": "Выпечка выше всяких похвал",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "131"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Отличный завтрак",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "131"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Завтраки отличные",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "131"
-                            ],
-                            "sentiment": ""
-                        }
-                    ],
-                    "sub_category_list": [
-                        {
-                            "count": 0.0051,
-                            "ratio": "",
-                            "score": 0,
-                            "review_count": 25,
-                            "category_name": "Стоимость завтрака",
-                            "text": "100% отметили, что завтрак слишком дорогой.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Дорогой завтрак",
-                            "category_id": "ba62",
-                            "highlight_list": [
-                                {
-                                    "text": "Платные завтраки",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "131",
-                                        "22a",
-                                        "ba62"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Дорогой завтрак",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "131",
-                                        "22a",
-                                        "ba62"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        }
-                    ],
-                    "summary_sentence_list": [
-                        {
-                            "text": "Завтрак вкусный, но дороговат.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "131",
-                                "ba62"
-                            ],
-                            "sentiment": "mixed"
-                        }
-                    ]
-                },
-                {
-                    "count": 0.101,
-                    "ratio": "Good",
-                    "score": 87,
-                    "review_count": 492,
-                    "category_name": "Комфорт",
-                    "text": "Высокий уровень комфорта.",
-                    "relevance": 1.0068877,
-                    "sentiment": "pos",
-                    "short_text": "Довольно комфортабельно.",
-                    "category_id": "111",
-                    "highlight_list": [
-                        {
-                            "text": "Белье отличное",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "11",
-                                "111",
-                                "11b"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Большие и уютные номера",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "11",
-                                "4b72",
-                                "111"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Просторные чистые номера",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "11",
-                                "4b72",
-                                "f63a",
-                                "111",
-                                "333"
-                            ],
-                            "sentiment": ""
-                        }
-                    ],
-                    "sub_category_list": [
-                        {
-                            "count": 0.0675,
-                            "ratio": "",
-                            "score": 94,
-                            "review_count": 329,
-                            "category_name": "Размер номера",
-                            "text": "94% отметили, что номера просторные.",
-                            "relevance": 1.8083595,
-                            "sentiment": "pos",
-                            "short_text": "Просторные номера",
-                            "category_id": "4b72",
-                            "highlight_list": [
-                                {
-                                    "text": "Большие и уютные номера",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "4b72",
-                                        "111"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Просторная ванная",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "4b72",
-                                        "111",
-                                        "11a",
-                                        "5b6c"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Просторная ванная комната",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "5b6c",
-                                        "11a",
-                                        "111",
-                                        "4b72"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0363,
-                            "ratio": "",
-                            "score": 85,
-                            "review_count": 177,
-                            "category_name": "Кровати",
-                            "text": "85% отметили, что кровати удобные.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Удобные кровати",
-                            "category_id": "11b",
-                            "highlight_list": [
-                                {
-                                    "text": "Белье отличное",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "111",
-                                        "11b"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Кровать шикарная",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "111",
-                                        "11b"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Отличная постель",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "111",
-                                        "11b"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0162,
-                            "ratio": "",
-                            "score": 73,
-                            "review_count": 79,
-                            "category_name": "Шум",
-                            "text": "73% отметили, что была приятная тишина.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Тишина",
-                            "category_id": "111a",
-                            "highlight_list": [
-                                {
-                                    "text": "Отеле тихо",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "111a",
-                                        "111",
-                                        "16"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Номере тихо",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "111a",
-                                        "11",
-                                        "111"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Тихий номер",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "111a",
-                                        "111"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0053,
-                            "ratio": "",
-                            "score": 14,
-                            "review_count": 26,
-                            "category_name": "Кондиционер",
-                            "text": "Кондиционером недовольны 86%.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Кондиционер довольно старый",
-                            "category_id": "11f",
-                            "highlight_list": [
-                                {
-                                    "text": "Кондиционер не работал",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "e51a",
-                                        "11f",
-                                        "111"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "В душе нет кондиционера",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11f",
-                                        "111"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Старые кондиционеры",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11f",
-                                        "ae0f",
-                                        "vmod",
-                                        "111",
-                                        "171"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0033,
-                            "ratio": "",
-                            "score": 90,
-                            "review_count": 16,
-                            "category_name": "Размер ванной комнаты",
-                            "text": "90% понравился просторный санузел.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Просторный санузел",
-                            "category_id": "5b6c",
-                            "highlight_list": [
-                                {
-                                    "text": "Широкие полотенца",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "4b72",
-                                        "11a",
-                                        "111",
-                                        "5b6c"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Просторная ванная",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "4b72",
-                                        "111",
-                                        "11a",
-                                        "5b6c"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Огромная ванная комната",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11a",
-                                        "111",
-                                        "5b6c",
-                                        "4b72"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        }
-                    ],
-                    "summary_sentence_list": [
-                        {
-                            "text": "Просторные комфортабельные номера, но плохой кондиционер.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "111",
-                                "4b72",
-                                "11f"
-                            ],
-                            "sentiment": "mixed"
-                        },
-                        {
-                            "text": "Тихие номера с отличными кроватями и довольно большими ванными комнатами.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "5b6c",
-                                "11b",
-                                "111a"
-                            ],
-                            "sentiment": "pos"
-                        }
-                    ]
-                },
-                {
-                    "count": 0.1653,
-                    "ratio": "Good",
-                    "score": 83,
-                    "review_count": 805,
-                    "category_name": "Номер",
-                    "text": "Номера прекрасные.",
-                    "relevance": 1.1028064,
-                    "sentiment": "pos",
-                    "short_text": "Прекрасный номер",
-                    "category_id": "11",
-                    "highlight_list": [
-                        {
-                            "text": "Белье отличное",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "11",
-                                "111",
-                                "11b"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Номер отличный",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "11"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Большие и уютные номера",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "11",
-                                "4b72",
-                                "111"
-                            ],
-                            "sentiment": ""
-                        }
-                    ],
-                    "sub_category_list": [
-                        {
-                            "count": 0.0675,
-                            "ratio": "",
-                            "score": 94,
-                            "review_count": 329,
-                            "category_name": "Размер номера",
-                            "text": "94% отметили, что номера просторные.",
-                            "relevance": 1.8083595,
-                            "sentiment": "pos",
-                            "short_text": "Просторные номера",
-                            "category_id": "4b72",
-                            "highlight_list": [
-                                {
-                                    "text": "Большие и уютные номера",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "4b72",
-                                        "111"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Просторная ванная",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "4b72",
-                                        "111",
-                                        "11a",
-                                        "5b6c"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Просторная ванная комната",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "5b6c",
-                                        "11a",
-                                        "111",
-                                        "4b72"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0363,
-                            "ratio": "",
-                            "score": 85,
-                            "review_count": 177,
-                            "category_name": "Кровати",
-                            "text": "85% отметили, что кровати удобные.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Удобные кровати",
-                            "category_id": "11b",
-                            "highlight_list": [
-                                {
-                                    "text": "Белье отличное",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "111",
-                                        "11b"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Кровать шикарная",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "111",
-                                        "11b"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Отличная постель",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "111",
-                                        "11b"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0433,
-                            "ratio": "",
-                            "score": 84,
-                            "review_count": 211,
-                            "category_name": "Чистота в номере",
-                            "text": "84% отметили, что номера чистые.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Чистые номера",
-                            "category_id": "f63a",
-                            "highlight_list": [
-                                {
-                                    "text": "Аккуратная постель",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "f63a",
-                                        "111",
-                                        "333",
-                                        "11b"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Чистый и уютный номер",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "f63a",
-                                        "11",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Чистые и уютные номера",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "f63a",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0201,
-                            "ratio": "",
-                            "score": 48,
-                            "review_count": 98,
-                            "category_name": "Ванная комната",
-                            "text": "52% пожаловались на санузел.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Ванная комната могла бы быть получше",
-                            "category_id": "11a",
-                            "highlight_list": [
-                                {
-                                    "text": "Полотенца старые",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11a",
-                                        "ae0f",
-                                        "171",
-                                        "vmod"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Запах туалета",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "f63a",
-                                        "11",
-                                        "343c",
-                                        "11a",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Ужасный фен",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11a"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0115,
-                            "ratio": "",
-                            "score": 30,
-                            "review_count": 56,
-                            "category_name": "Мебель",
-                            "text": "70% отметили, что с мебелью были проблемы.",
-                            "relevance": 1.0544895,
-                            "sentiment": "neg",
-                            "short_text": "Не очень хорошая мебель",
-                            "category_id": "11i",
-                            "highlight_list": [
-                                {
-                                    "text": "Гардероб маленький",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11i",
-                                        "4b72",
-                                        "111",
-                                        "11"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Грязные стулья",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "f63a",
-                                        "11",
-                                        "11i",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Пятнами мебель",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "f63a",
-                                        "11i",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0074,
-                            "ratio": "",
-                            "score": 4,
-                            "review_count": 36,
-                            "category_name": "Техническое обслуживание номеров",
-                            "text": "96% отметили, что состояние плохое.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Номера нуждаются в регулярном ремонте",
-                            "category_id": "e51a",
-                            "highlight_list": [
-                                {
-                                    "text": "Вытяжка не работает",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "e51a",
-                                        "11j"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Не работал холодильник",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "e51a",
-                                        "11"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Не открывался номер",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "e51a"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0053,
-                            "ratio": "",
-                            "score": 14,
-                            "review_count": 26,
-                            "category_name": "Кондиционер",
-                            "text": "Кондиционером недовольны 86%.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Кондиционер довольно старый",
-                            "category_id": "11f",
-                            "highlight_list": [
-                                {
-                                    "text": "Кондиционер не работал",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "e51a",
-                                        "11f",
-                                        "111"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "В душе нет кондиционера",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11f",
-                                        "111"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Старые кондиционеры",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11f",
-                                        "ae0f",
-                                        "vmod",
-                                        "111",
-                                        "171"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0039,
-                            "ratio": "",
-                            "score": 37,
-                            "review_count": 19,
-                            "category_name": "Душ",
-                            "text": "У 63% были проблемы с душем.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Не очень хороший душ",
-                            "category_id": "11m",
-                            "highlight_list": [
-                                {
-                                    "text": "Душ нельзя",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11m",
-                                        "11",
-                                        "11a"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Душевой кабине нет",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11m",
-                                        "11a"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Душ сломан",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "e51a",
-                                        "11m",
-                                        "11a"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0039,
-                            "ratio": "",
-                            "score": 55,
-                            "review_count": 19,
-                            "category_name": "Чистота ванной комнаты",
-                            "text": "Чистота в санузле на среднем уровне, отметили 55%",
-                            "relevance": 1,
-                            "sentiment": "neu",
-                            "short_text": "Ванная относительно чистая",
-                            "category_id": "343c",
-                            "highlight_list": [
-                                {
-                                    "text": "Не меняли полотенца",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "f63a",
-                                        "343c",
-                                        "11a",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Туалет плохо помыт",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "f63a",
-                                        "343c",
-                                        "11a",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Запах туалета",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "f63a",
-                                        "11",
-                                        "343c",
-                                        "11a",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0033,
-                            "ratio": "",
-                            "score": 90,
-                            "review_count": 16,
-                            "category_name": "Размер ванной комнаты",
-                            "text": "90% понравился просторный санузел.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Просторный санузел",
-                            "category_id": "5b6c",
-                            "highlight_list": [
-                                {
-                                    "text": "Широкие полотенца",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "4b72",
-                                        "11a",
-                                        "111",
-                                        "5b6c"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Просторная ванная",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "4b72",
-                                        "111",
-                                        "11a",
-                                        "5b6c"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Огромная ванная комната",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11a",
-                                        "111",
-                                        "5b6c",
-                                        "4b72"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0035,
-                            "ratio": "",
-                            "score": 72,
-                            "review_count": 17,
-                            "category_name": "Вид",
-                            "text": "72% отметили, что вид хороший.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "В восторге от вида",
-                            "category_id": "11e",
-                            "highlight_list": [
-                                {
-                                    "text": "Красивый вид из окна",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11e"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Вид хороший",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11e",
-                                        "11"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Красивым видом",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11e"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0023,
-                            "ratio": "",
-                            "score": 29,
-                            "review_count": 11,
-                            "category_name": "Телевизор",
-                            "text": "71% отметили, что телевизор ниже среднего.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Старый телевизор",
-                            "category_id": "11h",
-                            "highlight_list": [
-                                {
-                                    "text": "Телевизор маловат",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "4b72",
-                                        "111",
-                                        "11h"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.001,
-                            "ratio": "",
-                            "score": 20,
-                            "review_count": 5,
-                            "category_name": "Минибар",
-                            "text": "80% недовольны мини-баром.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Не самый лучший мини-бар",
-                            "category_id": "11g",
-                            "highlight_list": [
-                                {
-                                    "text": "Минибаре всего две",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11g"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Минибара нет",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11g"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.001,
-                            "ratio": "",
-                            "score": 0,
-                            "review_count": 5,
-                            "category_name": "Кухня",
-                            "text": "100% остались недовольны мини-кухней.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Не очень хорошая мини-кухня",
-                            "category_id": "11j",
-                            "highlight_list": [
-                                {
-                                    "text": "Не было микроволновки",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11j"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Вытяжка не работает",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "e51a",
-                                        "11j"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Нет вытяжки",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "11",
-                                        "11j"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        }
-                    ],
-                    "summary_sentence_list": [
-                        {
-                            "text": "Чистые просторные номера с удобными кроватями и хорошим видом из окон.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "f63a",
-                                "11",
-                                "4b72",
-                                "11b",
-                                "11e"
-                            ],
-                            "sentiment": "pos"
-                        },
-                        {
-                            "text": "Ванные комнаты просторные и не грязные, но в целом впечатление плохое.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "5b6c",
-                                "11a",
-                                "343c"
-                            ],
-                            "sentiment": "mixed"
-                        },
-                        {
-                            "text": "Некачественная мебель, кондиционер, телевизор и мини-кухня.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "11h",
-                                "11f",
-                                "11i",
-                                "11j"
-                            ],
-                            "sentiment": "neg"
-                        },
-                        {
-                            "text": "Номерам требуется ремонт, мини-бары плохо укомплектованы.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "e51a",
-                                "11g"
-                            ],
-                            "sentiment": "neg"
-                        },
-                        {
-                            "text": "Не очень хороший душ.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "11m"
-                            ],
-                            "sentiment": "neg"
-                        }
-                    ]
-                },
-                {
-                    "count": 0.0891,
-                    "ratio": "Good",
-                    "score": 79,
-                    "review_count": 434,
-                    "category_name": "Расположение",
-                    "text": "Хорошее расположение.",
-                    "relevance": 1,
-                    "sentiment": "pos",
-                    "short_text": "Отличное расположение",
-                    "category_id": "14",
-                    "highlight_list": [
-                        {
-                            "text": "Отличный ресторан",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "14"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Отличный бар",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "14"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Отличный ужин",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "14"
-                            ],
-                            "sentiment": ""
-                        }
-                    ],
-                    "sub_category_list": [
-                        {
-                            "count": 0.0197,
-                            "ratio": "",
-                            "score": 88,
-                            "review_count": 96,
-                            "category_name": "Удаленность от общественного транспорта",
-                            "text": "Удобно добираться на общественном транспорте, по мнению 88%.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Удобно добираться на общественном транспорте",
-                            "category_id": "14i",
-                            "highlight_list": [
-                                {
-                                    "text": "Недалеко от станции метро",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14",
-                                        "14i"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Близко к метро",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14",
-                                        "14i"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Рядом остановки автобусов",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14",
-                                        "14i"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0111,
-                            "ratio": "",
-                            "score": 28,
-                            "review_count": 54,
-                            "category_name": "Парковка",
-                            "text": "Недостаточно парковочных мест, по мнению 72%.",
-                            "relevance": 1.2589508,
-                            "sentiment": "neg",
-                            "short_text": "Мало парковочного места",
-                            "category_id": "14g",
-                            "highlight_list": [
-                                {
-                                    "text": "Стоянка дороговата",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14g",
-                                        "b63a",
-                                        "14",
-                                        "22a"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Платной стоянкой",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14g",
-                                        "b63a",
-                                        "14",
-                                        "22a"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Платную парковку",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14g",
-                                        "b63a",
-                                        "14",
-                                        "22a"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.007,
-                            "ratio": "",
-                            "score": 30,
-                            "review_count": 34,
-                            "category_name": "Стоимость парковки",
-                            "text": "Для 70% цены на паркинг слишком высокие.",
-                            "relevance": 1.6168673,
-                            "sentiment": "neg",
-                            "short_text": "Недешевая парковка",
-                            "category_id": "b63a",
-                            "highlight_list": [
-                                {
-                                    "text": "Стоянка дороговата",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14g",
-                                        "b63a",
-                                        "14",
-                                        "22a"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Платной стоянкой",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14g",
-                                        "b63a",
-                                        "14",
-                                        "22a"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Платную парковку",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14g",
-                                        "b63a",
-                                        "14",
-                                        "22a"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0035,
-                            "ratio": "",
-                            "score": 97,
-                            "review_count": 17,
-                            "category_name": "Магазины",
-                            "text": "97% понравилось близкое расположение магазинов.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Прекрасные магазины",
-                            "category_id": "14e",
-                            "highlight_list": [
-                                {
-                                    "text": "Рядом магазины",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14e",
-                                        "14"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0037,
-                            "ratio": "",
-                            "score": 56,
-                            "review_count": 18,
-                            "category_name": "Удаленность от центра города",
-                            "text": "Центр города не очень далеко, отметили 56%.",
-                            "relevance": 1,
-                            "sentiment": "neu",
-                            "short_text": "Среднее расстояние до центра",
-                            "category_id": "14h",
-                            "highlight_list": [
-                                {
-                                    "text": "Недалеко от центра",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14",
-                                        "14h"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0023,
-                            "ratio": "",
-                            "score": 100,
-                            "review_count": 11,
-                            "category_name": "Удаленность от железнодорожной станции",
-                            "text": "100% отметили, что до железнодорожной станции добираться удобно.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Железнодорожная станция рядом",
-                            "category_id": "14j",
-                            "highlight_list": [
-                                {
-                                    "text": "Вокзалов в шаговой доступности",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14j",
-                                        "14"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0018,
-                            "ratio": "",
-                            "score": 45,
-                            "review_count": 9,
-                            "category_name": "Удобство подъезда на авто",
-                            "text": "По мнению 55%, сложно добираться на автомобиле.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Может быть сложно подъехать на автомобиле",
-                            "category_id": "14a",
-                            "highlight_list": []
-                        },
-                        {
-                            "count": 0.0014,
-                            "ratio": "",
-                            "score": 86,
-                            "review_count": 7,
-                            "category_name": "Рестораны и бары",
-                            "text": "86% понравились рестораны и бары в округе.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Активная ночная жизнь",
-                            "category_id": "14d",
-                            "highlight_list": [
-                                {
-                                    "text": "Кафе в пешей доступности",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14d",
-                                        "14"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Ресторан рядом",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14d",
-                                        "14"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0012,
-                            "ratio": "",
-                            "score": 75,
-                            "review_count": 6,
-                            "category_name": "Шоппинг/достопримечательности",
-                            "text": "75% понравилась близость к достопримечательностям.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Великолепные достопримечательности",
-                            "category_id": "14c",
-                            "highlight_list": [
-                                {
-                                    "text": "Достопримечательностям рядом",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "14c",
-                                        "14"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        }
-                    ],
-                    "summary_sentence_list": [
-                        {
-                            "text": "Отличное расположение.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "14"
-                            ],
-                            "sentiment": "pos"
-                        },
-                        {
-                            "text": "Рядом с остановками общественного транспорта и ж/д станцией.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "14j",
-                                "14i"
-                            ],
-                            "sentiment": "pos"
-                        },
-                        {
-                            "text": "Не очень удобный подъезд на автомобиле, плохая парковка.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "14g",
-                                "14a"
-                            ],
-                            "sentiment": "neg"
-                        },
-                        {
-                            "text": "Достаточно близко к центру города, рядом с достопримечательностями, магазинами и ресторанами.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "14h",
-                                "14d",
-                                "14c",
-                                "14e"
-                            ],
-                            "sentiment": "mixed"
-                        },
-                        {
-                            "text": "Недешевая парковка.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "b63a"
-                            ],
-                            "sentiment": "neg"
-                        }
-                    ]
-                },
-                {
-                    "count": 0.0443,
-                    "ratio": "Good",
-                    "score": 78,
-                    "review_count": 216,
-                    "category_name": "Еда",
-                    "text": "Еда вкусная.",
-                    "relevance": 1,
-                    "sentiment": "pos",
-                    "short_text": "Отличная еда",
-                    "category_id": "13",
-                    "highlight_list": [
-                        {
-                            "text": "Отличный шведский стол",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "13"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Кухня шикарная",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "13"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Меню разнообразно",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "13b",
-                                "13"
-                            ],
-                            "sentiment": ""
-                        }
-                    ],
-                    "sub_category_list": [
-                        {
-                            "count": 0.0023,
-                            "ratio": "",
-                            "score": 83,
-                            "review_count": 11,
-                            "category_name": "Десерты и фрукты",
-                            "text": "Бесподобные десерты, отметили 83%.",
-                            "relevance": 1.1921774,
-                            "sentiment": "pos",
-                            "short_text": "Прекрасные десерты и фрукты",
-                            "category_id": "13n",
-                            "highlight_list": [
-                                {
-                                    "text": "Вкусное пирожное",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "13",
-                                        "13n"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Свежие фрукты",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "13",
-                                        "13n"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0033,
-                            "ratio": "",
-                            "score": 55,
-                            "review_count": 16,
-                            "category_name": "Еда",
-                            "text": "Только 55% довольны меню.",
-                            "relevance": 1,
-                            "sentiment": "neu",
-                            "short_text": "Приемлемое меню",
-                            "category_id": "13b",
-                            "highlight_list": [
-                                {
-                                    "text": "Меню разнообразно",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "13b",
-                                        "13"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Вкусное меню",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "13b",
-                                        "13"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Богатое меню",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "13b",
-                                        "13"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0025,
-                            "ratio": "",
-                            "score": 57,
-                            "review_count": 12,
-                            "category_name": "Впечатления от питания",
-                            "text": "57% отметили, что обеды нормальные.",
-                            "relevance": 1,
-                            "sentiment": "neu",
-                            "short_text": "Средний ресторан",
-                            "category_id": "ef97",
-                            "highlight_list": [
-                                {
-                                    "text": "Чистую посуду",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "2b39",
-                                        "13",
-                                        "ef97",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Запах пищи",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "2b39",
-                                        "13",
-                                        "ef97",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Грязные ложки",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "2b39",
-                                        "13",
-                                        "ef97",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0018,
-                            "ratio": "",
-                            "score": 33,
-                            "review_count": 9,
-                            "category_name": "Чистота обеденной зоны",
-                            "text": "Грязная столовая, по мнению 67%.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Обеденный зал мог бы быть почище",
-                            "category_id": "2b39",
-                            "highlight_list": [
-                                {
-                                    "text": "Запах пищи",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "2b39",
-                                        "13",
-                                        "ef97",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Грязные тарелки",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "2b39",
-                                        "13",
-                                        "ef97",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Грязные ложки",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "2b39",
-                                        "13",
-                                        "ef97",
-                                        "333"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.001,
-                            "ratio": "",
-                            "score": 0,
-                            "review_count": 5,
-                            "category_name": "Стоимость Еды",
-                            "text": "Цены слишком высокие для 100%.",
-                            "relevance": 1.2590947,
-                            "sentiment": "neg",
-                            "short_text": "Цены на питание немного завышены",
-                            "category_id": "2dca",
-                            "highlight_list": []
-                        }
-                    ],
-                    "summary_sentence_list": [
-                        {
-                            "text": "Вкусные блюда, особенно десерты, нормальное меню.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "13",
-                                "13b",
-                                "13n",
-                                "ef97"
-                            ],
-                            "sentiment": "mixed"
-                        },
-                        {
-                            "text": "Дорогой, но грязный ресторан.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "2b39",
-                                "2dca"
-                            ],
-                            "sentiment": "neg"
-                        }
-                    ]
-                },
-                {
-                    "count": 0.0324,
-                    "ratio": "Neutral",
-                    "score": 68,
-                    "review_count": 158,
-                    "category_name": "Удобства",
-                    "text": "Средние удобства.",
-                    "relevance": 1,
-                    "sentiment": "neu",
-                    "short_text": "Обычные удобства",
-                    "category_id": "244",
-                    "highlight_list": [
-                        {
-                            "text": "Отличный конференц-зал",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "24",
-                                "244",
-                                "24c"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Переполненном фойе",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "24",
-                                "244"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Далеко от парка",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "244",
-                                "20"
-                            ],
-                            "sentiment": ""
-                        }
-                    ],
-                    "sub_category_list": [
-                        {
-                            "count": 0.0292,
-                            "ratio": "",
-                            "score": 69,
-                            "review_count": 142,
-                            "category_name": "Здание",
-                            "text": "69% считают, что здание приемлемое.",
-                            "relevance": 1.0274203,
-                            "sentiment": "neu",
-                            "short_text": "Средние корпуса отеля",
-                            "category_id": "24",
-                            "highlight_list": [
-                                {
-                                    "text": "Отличное оформление",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Входе выше всяких похвал",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "171",
-                                        "24b"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Прокуренного холла",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "24b",
-                                        "333",
-                                        "244",
-                                        "9f14",
-                                        "171"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0084,
-                            "ratio": "",
-                            "score": 34,
-                            "review_count": 41,
-                            "category_name": "Лифт",
-                            "text": "66% жаловались на лифт.",
-                            "relevance": 2.095527,
-                            "sentiment": "neg",
-                            "short_text": "Лифт нуждается в ремонте",
-                            "category_id": "24j",
-                            "highlight_list": [
-                                {
-                                    "text": "Лифтов маловато",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "24j"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Шумный лифт",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "111",
-                                        "111a",
-                                        "24j"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Лифты медленные",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "24j"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0082,
-                            "ratio": "",
-                            "score": 85,
-                            "review_count": 40,
-                            "category_name": "Входной холл",
-                            "text": "85% в восторге от вестибюля.",
-                            "relevance": 1.2396716,
-                            "sentiment": "pos",
-                            "short_text": "Прекрасный вестибюль",
-                            "category_id": "24b",
-                            "highlight_list": [
-                                {
-                                    "text": "Входе выше всяких похвал",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "171",
-                                        "24b"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Красивый холл",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "171",
-                                        "24b"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Холле приятный",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "171",
-                                        "24b"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0035,
-                            "ratio": "",
-                            "score": 95,
-                            "review_count": 17,
-                            "category_name": "Бизнес-центр",
-                            "text": "Отличный бизнес-центр, по мнению 95%.",
-                            "relevance": 2.2313042,
-                            "sentiment": "pos",
-                            "short_text": "Хороший бизнес-центр",
-                            "category_id": "24c",
-                            "highlight_list": [
-                                {
-                                    "text": "Отличный конференц-зал",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "24c"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Конференц-залом великолепный",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "24c"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Отличные конференц Залы",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "24c"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0037,
-                            "ratio": "",
-                            "score": 57,
-                            "review_count": 18,
-                            "category_name": "Территория",
-                            "text": "57% отметили, что территория неплохая.",
-                            "relevance": 1,
-                            "sentiment": "neu",
-                            "short_text": "Нормальная территория отеля",
-                            "category_id": "20",
-                            "highlight_list": [
-                                {
-                                    "text": "Парк рядом",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "244",
-                                        "20"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Далеко от парка",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "244",
-                                        "20"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Нет инфраструктуры",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "244",
-                                        "20"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.0012,
-                            "ratio": "",
-                            "score": 82,
-                            "review_count": 6,
-                            "category_name": "Архитектура",
-                            "text": "82% отметили, что отель находится в красивом здании.",
-                            "relevance": 1,
-                            "sentiment": "pos",
-                            "short_text": "Красивая архитектура",
-                            "category_id": "24h",
-                            "highlight_list": [
-                                {
-                                    "text": "Интересный дизайн отеля",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "vdes",
-                                        "24h",
-                                        "171"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Хороший декор",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "24",
-                                        "244",
-                                        "vdes",
-                                        "24h",
-                                        "171"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        },
-                        {
-                            "count": 0.001,
-                            "ratio": "",
-                            "score": 43,
-                            "review_count": 5,
-                            "category_name": "Старые/новые удобства",
-                            "text": "57% отметили, что нужно обновить оборудование.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Отелю не помешал бы ремонт",
-                            "category_id": "deeb",
-                            "highlight_list": []
-                        }
-                    ],
-                    "summary_sentence_list": [
-                        {
-                            "text": "Средние корпуса отеля.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "24",
-                                "244"
-                            ],
-                            "sentiment": "neu"
-                        },
-                        {
-                            "text": "Отличные конференц-залы и приятная зона лобби.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "24b",
-                                "24c"
-                            ],
-                            "sentiment": "pos"
-                        },
-                        {
-                            "text": "Лифт нуждается в ремонте.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "24j"
-                            ],
-                            "sentiment": "neg"
-                        },
-                        {
-                            "text": "Хорошая территория, но помещения и удобства устаревшие.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "deeb",
-                                "20"
-                            ],
-                            "sentiment": "mixed"
-                        },
-                        {
-                            "text": "Красивая архитектура.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "24h"
-                            ],
-                            "sentiment": "pos"
-                        }
-                    ]
-                },
-                {
-                    "count": 0.0053,
-                    "ratio": "Neutral",
-                    "score": 60,
-                    "review_count": 26,
-                    "category_name": "Интернет",
-                    "text": "Нормальный интернет.",
-                    "relevance": 1,
-                    "sentiment": "neu",
-                    "short_text": "Нормальный Интернет",
-                    "category_id": "18",
-                    "highlight_list": [
-                        {
-                            "text": "Бесплатный Wi-Fi",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "805b",
-                                "22a",
-                                "18"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Вай фай хороший",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "18",
-                                "wifq"
-                            ],
-                            "sentiment": ""
-                        },
-                        {
-                            "text": "Хороший Вайфай",
-                            "confidence": 100,
-                            "category_id_list": [
-                                "18",
-                                "wifq"
-                            ],
-                            "sentiment": ""
-                        }
-                    ],
-                    "sub_category_list": [
-                        {
-                            "count": 0.0041,
-                            "ratio": "",
-                            "score": 44,
-                            "review_count": 20,
-                            "category_name": "Качество Wi-Fi",
-                            "text": "По мнению 56%, качество Wi-Fi неважное.",
-                            "relevance": 1,
-                            "sentiment": "neg",
-                            "short_text": "Не очень хорошее качество Wi-Fi",
-                            "category_id": "wifq",
-                            "highlight_list": [
-                                {
-                                    "text": "Wi-Fi плохо работал",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "18",
-                                        "wifq"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Плохо работал интернет",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "18",
-                                        "wifq"
-                                    ],
-                                    "sentiment": ""
-                                },
-                                {
-                                    "text": "Ужасный интернет",
-                                    "confidence": 100,
-                                    "category_id_list": [
-                                        "18",
-                                        "wifq"
-                                    ],
-                                    "sentiment": ""
-                                }
-                            ]
-                        }
-                    ],
-                    "summary_sentence_list": [
-                        {
-                            "text": "Нормальный Интернет.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "18"
-                            ],
-                            "sentiment": "neu"
-                        },
-                        {
-                            "text": "Не очень хорошее качество Wi-Fi.",
-                            "confidence": 0,
-                            "category_id_list": [
-                                "wifq"
-                            ],
-                            "sentiment": "neg"
-                        }
-                    ]
-                }
-            ],
-            "language_split": {
-                "de": {
-                    "percentage": 2
-                },
-                "en": {
-                    "percentage": 8
-                },
-                "es": {
-                    "percentage": 1
-                },
-                "fr": {
-                    "percentage": 1
-                },
-                "he": {
-                    "percentage": 1
-                },
-                "it": {
-                    "percentage": 1
-                },
-                "ru": {
-                    "percentage": 85
-                },
-                "zh": {
-                    "percentage": 1
-                }
-            },
-            "trip_type_split": {
-                "trip_type_split": {
-                    "business": 25,
-                    "couple": 17,
-                    "family": 35,
-                    "solo": 23
-                }
-            },
-            "summary": {
-                "reviews_count": 4871,
-                "score": 89,
-                "popularity": 9,
-                "text": "Превосходный велнес-отель. Расположен рядом с торговыми центрами, удобный доступ к общественному транспорту. Прекрасный номер."
-            }
-        }
-    },
+    "trustyou": {},
     "hotels_suggests": [],
     "hotels_by_id": {},
     "room_types": {},
     "discounts": {},
-    "expire_at": "1740843936",
-    "ttl": 86399,
+    "expire_at": "1740833949",
+    "ttl": 2698,
     "selected_hotels_ids": []
 }
