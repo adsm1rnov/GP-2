@@ -168,7 +168,7 @@
             "locations_ids": [
                 12153
             ],
-            "popularity2": 1399,
+            "popularity2": 1402,
             "locations_distances": {
                 "12153": 3164
             },
@@ -342,14 +342,14 @@
             "full_name": "",
             "property_type_id": 1,
             "amenities": [
-                0,
-                3,
-                4,
                 6,
                 10,
                 12,
                 14,
-                18
+                18,
+                0,
+                3,
+                4
             ],
             "badges": {
                 "badges": [
@@ -3031,7 +3031,7 @@
     "hotels_by_id": {},
     "room_types": {},
     "discounts": {},
-    "expire_at": "1740931308",
+    "expire_at": "1741180226",
     "ttl": 86399,
     "selected_hotels_ids": []
 }
