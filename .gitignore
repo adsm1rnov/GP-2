@@ -3,6 +3,10 @@ __pycache__
 Заметки.md
 GP 2 - Scraping & API.ipynb
 Tests
+
+API/opentripmap/API_KEYS.py
 API_KEYS.py
+API/hotellook/hotellook_alldata_limit
 hotellook_alldata_limit-50000.json
 chromedriver.exe
+Parsing/chromedriver.exe
